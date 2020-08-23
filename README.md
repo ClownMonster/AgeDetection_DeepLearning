@@ -2,9 +2,10 @@
 <h3 align="center">Python3 :blue_heart:</h3>
 
 <p>The Model Detects Age in Two States:</p>
-<a>1.Age Detection in static Images</a>
-<a>2.Age Detection in real-time video streams</a>
+<p>1.Age Detection in static Images</p>
+<p>2.Age Detection in real-time video streams</p>
 
+<p></p>
 
 <p>Typically, you’ll see age detection implemented as a two-stage process:</p>
     <p>Stage 1: Detect faces in the input image/video stream</p>
