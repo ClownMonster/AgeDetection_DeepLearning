@@ -17,7 +17,6 @@ Haar cascades, HOG + Linear SVM, Single Shot Detectors (SSDs), etc.
 <p>Deep learning-based face detectors are the most robust and will give you the best accuracy, but require even more computational resources than both Haar cascades and HOG + Linear SVMs</p>
 
 <h5>In this project u have two Detector models</h5>
-<p>
-1. detect_age.py: Single image age prediction
-2. detect_age_video.py: Age prediction in video streams
-</p>
+
+<p>1. detect_age.py: Single image age prediction</p>
+<p>2. detect_age_video.py: Age prediction in video streams</p>
