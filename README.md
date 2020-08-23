@@ -5,7 +5,7 @@
 <p>1.Age Detection in static Images</p>
 <p>2.Age Detection in real-time video streams</p>
 
-<p></p>
+<br/>
 
 <p>Typically, you’ll see age detection implemented as a two-stage process:</p>
     <p>Stage 1: Detect faces in the input image/video stream</p>
@@ -15,6 +15,7 @@ Types of Face Detectors are :
 Haar cascades, HOG + Linear SVM, Single Shot Detectors (SSDs), etc.
 
 <p>Deep learning-based face detectors are the most robust and will give you the best accuracy, but require even more computational resources than both Haar cascades and HOG + Linear SVMs</p>
+<br/>
 
 <h5>In this project u have two Detector models</h5>
 
